@@ -50,7 +50,7 @@ const MembershipPage = () => {
 
                 <div className="memboxes">
                     <h1 className="head">Three Month Membership</h1>
-                    <p className="price">$225</p>
+                    <p className="price">$255</p>
                     <p className="descriptionofpurchase">Every Three Months</p>
                     <p className="descriptionofmem">A full season worth of membership</p>
                     <a href="https://clients.mindbodyonline.com/ASP/su1.asp?studioid=156543&tg=&vt=&lvl=&stype=&view=&trn=0&page=&catid=&prodid=&date=5%2f31%2f2023&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&justloggedin=&nLgIn=&pMode=0&loc=1" target="_blank">
